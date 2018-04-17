@@ -1,0 +1,25 @@
+{
+  "name": "firstplugin",
+  "version": "0.0.1",
+  "description": "helloworld",
+  "cordova": {
+    "id": "cordova-plugin-firstapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Gugan",
+  "license": "y",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuganRajs/firstapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GuganRajs/firstapp/issues"
+  },
+  "homepage": "https://github.com/GuganRajs/firstapp#readme"
+}
